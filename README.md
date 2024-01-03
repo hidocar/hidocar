@@ -10,7 +10,7 @@
 
 📌 Exploring the intersections of creativity and functionality, I'm on a journey to master app development that resonates with users.
 
-🛠️ Proficient in: Dart, Flutter (and more to come!)
+🛠️ Proficient in: React, Web Developing 
 
 🚧 Currently working on: Sharpening my skills by building small-scale projects that solve real-world problems.
 
